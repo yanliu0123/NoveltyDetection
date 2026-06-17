@@ -216,14 +216,3 @@ If you find this repository useful, please cite our paper:
   year={2026}
 }
 ```
-
-## Contact
-
-For questions, please contact:
-
-```text
-Yan Liu
-College of Computing and Data Science
-Nanyang Technological University, Singapore
-Email: yan010@e.ntu.edu.sg
-```
