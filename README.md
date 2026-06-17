@@ -227,6 +227,3 @@ College of Computing and Data Science
 Nanyang Technological University, Singapore
 Email: yan010@e.ntu.edu.sg
 ```
-
-Harnessing Large Language Models for Scientific Novelty Detection
-```
