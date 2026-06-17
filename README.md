@@ -76,7 +76,7 @@ We provide two benchmark datasets for scientific novelty detection:
 | Dataset   |                      Domain | Seed Papers |     Reference Corpus | Description                                                                  |
 | --------- | --------------------------: | ----------: | -------------------: | ---------------------------------------------------------------------------- |
 | Marketing |  Social Science / Marketing |         470 | 12,577 unique papers | Papers collected from Journal of Marketing and Journal of Marketing Research |
-| NLP / ACL | Natural Language Processing |       3,533 | 32,239 unique papers | Papers collected from recent ACL conferences                                 |
+| NLP | Natural Language Processing |       3,533 | 32,239 unique papers | Papers collected from recent ACL conferences                                 |
 
 The datasets are designed with:
 
